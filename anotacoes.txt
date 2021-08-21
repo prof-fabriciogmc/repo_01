@@ -3,7 +3,4 @@ Segunda anotação!
 Efetuei uma alteração após ir para uma versão
 anterior do repositório.
 Outra alteração.
-Última alteração.
-Outra...
-Outra...
-
+Remoção
